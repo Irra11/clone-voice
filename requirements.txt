@@ -1,0 +1,7 @@
+python-telegram-bot==21.1.1
+soundfile
+numpy
+voxcpm
+torch
+httpx
+pydub
